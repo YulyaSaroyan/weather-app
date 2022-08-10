@@ -1,0 +1,11 @@
+.weather-data {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 30px;
+}
+
+.feel-hum-pres {
+    display: flex;
+    gap: 30px;
+}

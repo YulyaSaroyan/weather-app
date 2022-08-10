@@ -1,0 +1,14 @@
+.weather-wrapper {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 40px;
+}
+
+.container {
+    background-image: url("../../Img/sky.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    border-radius: 30px;
+}

@@ -1,0 +1,11 @@
+.humidity {
+    font-size: 20px;
+    background-color: rgba(255, 255, 255, 0.281);
+    padding: 20px;
+    border-radius: 23px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 13px;
+    color: rgba(255, 255, 255);
+}

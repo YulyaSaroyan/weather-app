@@ -1,0 +1,49 @@
+.location-celsius {
+    display: flex;
+    align-items: center;
+    gap: 40px;
+    color: rgb(255, 255, 255);
+}
+
+.location-celsius .city-temp {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 10px;
+}
+
+.location-celsius .city-temp h3{
+    font-size: 30px;
+}
+
+.location-celsius > svg {
+    font-size: 70px;
+}
+
+.cloud {
+    color: rgb(255, 255, 255);
+}
+
+.sun {
+    color: rgb(218, 165, 32);
+}
+
+.rain {
+    color: rgb(192, 218, 240);
+}
+
+.clear {
+    color: rgb(255, 255, 255);
+}
+
+.mist {
+    color: rgba(128, 128, 128, 0.685);
+}
+
+.snow {
+    color: rgb(142, 204, 255);
+}
+
+.extreme {
+    color: rgba(128, 128, 128, 0.685);
+}
